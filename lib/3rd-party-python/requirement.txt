@@ -1,0 +1,3 @@
+yarl/1.8.2/yarl-1.8.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+idna/3.4/idna-3.4-py3-none-any.whl
+multidict/6.0.4/multidict-6.0.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
